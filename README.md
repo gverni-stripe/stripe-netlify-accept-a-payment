@@ -1,4 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/518f1cc7-75d9-486f-b4f3-393dae35305b/deploy-status)](https://app.netlify.com/sites/stripe-netlify-accept-a-payment/deploys)
+
 # Stripe Accept a payment boilerplate for Netlify 
+
+Demo available [here](https://stripe-netlify-accept-a-payment.netlify.app/)
 
 This is a simple boilerplate for the [Stripe Accept A Payment](https://github.com/stripe-samples/accept-a-payment) Sample. 
 
