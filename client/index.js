@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const {
     error: backendError,
     clientSecret
-  } = await fetch('/create-payment-intent').then(r => r.json());
+  } = await fetch('/.netlify/functions/create-payment-intent').then(r => r.json());
   if (backendError) {
     addMessage(backendError.message);
   }
