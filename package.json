@@ -20,7 +20,6 @@
     "stripe": "^14.2.0"
   },
   "devDependencies": {
-    "@compodoc/live-server": "^1.2.3",
-    "live-server": "^1.2.2"
+    "@compodoc/live-server": "^1.2.3"
   }
 }
