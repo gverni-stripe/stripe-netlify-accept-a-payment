@@ -18,5 +18,8 @@
   "homepage": "https://github.com/gverni-stripe/stripe-netlify-accept-a-paymnent#readme",
   "dependencies": {
     "stripe": "^14.2.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
   }
 }
